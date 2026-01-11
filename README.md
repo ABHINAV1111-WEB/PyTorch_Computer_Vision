@@ -38,8 +38,8 @@ Training time measurement for performance comparison
 ## Results
 Model	Accuracy (%)	Training Time
 model_without_ReLU	~83.43%	Fast
-model_with_ReLU	~75.2%	Moderate
-TinyVGG_CNN	~88.50%	Longer
+model_with_ReLU	~75.02%	Moderate
+TinyVGG_CNN	~88.54%	Longer
 
 ## Tech Stack
 Language: Python 3
